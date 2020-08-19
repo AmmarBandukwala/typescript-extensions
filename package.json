@@ -12,8 +12,8 @@
     "url": "git+https://github.com/AmmarBandukwala/typescript-extensions.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Ammar Bandukwala",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/AmmarBandukwala/typescript-extensions/issues"
   },
