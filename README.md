@@ -3,7 +3,7 @@
 ## Usage
 
 ```typescript
-import '../src/Extensions'
+import '../src/index'
 ```
 
 ## Avaliable Methods
