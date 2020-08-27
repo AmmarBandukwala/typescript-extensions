@@ -1,5 +1,5 @@
 import { expect } from "chai";
-import "../src/Array";
+import '../src/index'
 
 describe("Array", function () {
   

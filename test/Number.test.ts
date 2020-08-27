@@ -1,5 +1,5 @@
 import { expect } from "chai";
-import '../src/Number'
+import '../src/index'
 
 describe("Number", function () {
   // add a test hook
